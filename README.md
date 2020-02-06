@@ -23,7 +23,7 @@ sudo nvpmodel -q --verbose
 nvpmodel -h
 ```
 
-- 사용자정의 파워모드 만들기:  'sudo vi/etc/nvpmodel.conf' 열어서 맨아래에 추가합니다.
+- 사용자정의 파워모드(LOW 모드) 만들기:  'sudo vi/etc/nvpmodel.conf' 열어서 맨아래에 추가합니다.
 ```
 < POWER_MODEL ID=2 NAME=LOW >
 CPU_ONLINE CORE_0 1
