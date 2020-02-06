@@ -42,4 +42,10 @@ EMC MAX_FREQ 1600000000
 < PM_CONFIG DEFAULT=0 >
 ```
 
-반영하기위해 재부팅해줍니다.
+* 반영하기위해 재부팅해줍니다.
+
+
+* 스크립트 다운로드
+```
+wget https://raw.githubusercontent.com/jetsonworld/controlPowerModes/master/06_How_To_use_PowerModes_CustomizedMode.txt
+```
