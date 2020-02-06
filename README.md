@@ -1,1 +1,2 @@
-# controlPowerModes
+# 젯슨나노에서 파원모드 전환하기
+
